@@ -56,4 +56,4 @@ export function NoteCard({ note, onNoteDeleted }: NoteCardProps) {
         </Dialog.Portal>
       </Dialog.Root>
     )
-}
+}b
